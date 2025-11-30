@@ -3,7 +3,7 @@ body {
     margin: 0;
     background: #fffdfa;
     font-family: "Prompt", sans-serif;
-    background-image: url("bb0.png");
+    background-image: url("images/bb0.png");
     background-size: cover;       
     background-repeat: no-repeat; 
     background-attachment: fixed; 
@@ -318,4 +318,5 @@ footer {
     background: #a6863a;
     color: white;
 }
+
 
