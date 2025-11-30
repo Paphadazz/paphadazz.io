@@ -7,7 +7,7 @@ body {
     align-items: center;
     height: 100vh;
 
-    background-image: url("bb0.png"); /* เปลี่ยนชื่อไฟล์ตามที่รัก */
+    background-image: url("images/bb0.png"); 
     background-size: cover;          /* ขยายเต็มจอ */
     background-repeat: no-repeat;    /* ไม่ให้ซ้ำ */
     background-position: center;     /* จัดรูปให้อยู่ตรงกลาง */
@@ -109,3 +109,4 @@ button:hover {
     background: white;
     transform: translateY(-3px);
 }
+
